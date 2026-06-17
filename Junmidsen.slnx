@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Junmidsen.Core/Junmidsen.Core.csproj" />
+  <Project Path="Junmidsen.Tests/Junmidsen.Tests.csproj" />
+  <Project Path="Junmidsen/Junmidsen.ConsoleApp.csproj" />
+</Solution>
